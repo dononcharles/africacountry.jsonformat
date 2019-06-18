@@ -1,2 +1,4 @@
-# africacountry.jsonformat
-Africa Country Json Format
+# Africa Country Json format
+A Json format of africa country
+
+#Feel free to use it.
